@@ -23,7 +23,7 @@ const CONFIG = {
   HEO_HERO_TITLE_3: '',
   HEO_HERO_TITLE_4: 'Keep Learning',
   HEO_HERO_TITLE_5: '学习小屋',
-  HEO_HERO_TITLE_LINK: 'https://zzhangly.top',
+  HEO_HERO_TITLE_LINK: '/category/学习',
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: '随便逛逛',
 
@@ -33,8 +33,8 @@ const CONFIG = {
   HEO_HERO_CATEGORY_3: { title: '生活', url: '/tag/生活' },
 
   // 英雄区右侧推荐文章标签, 例如 [推荐] , 最多六篇文章; 若留空白''，则推荐最近更新文章
-    HEO_HERO_RECOMMEND_POST_TAG: '学习',
-  HEO_HERO_RECOMMEND_POST_SORT_BY_UPDATE_TIME: false, // 推荐文章排序，为`true`时将强制按最后修改时间倒序
+    HEO_HERO_RECOMMEND_POST_TAG: '推荐',
+  HEO_HERO_RECOMMEND_POST_SORT_BY_UPDATE_TIME: true, // 推荐文章排序，为`true`时将强制按最后修改时间倒序
   HERO_RECOMMEND_COVER: 'https://zhzhangblog-images-1311551106.cos.ap-guangzhou.myqcloud.com/blog/main_page/luxun.jpg', // 英雄区右侧图片
   // 右侧个人资料卡牌欢迎语，点击可自动切换
   HEO_INFOCARD_GREETINGS: [
