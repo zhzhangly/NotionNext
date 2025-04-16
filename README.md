@@ -1,6 +1,6 @@
 # Hello World
 2025-03 
-- update 软件设计师学习笔记 ChapterⅠ
+- [x] 软件设计师学习笔记 ChapterⅠ
 - 月末小记
 2024-12-02 Hello world，装修博客基础框架
 - [x] 2024-12-07 【相册集】、【追剧集】框架
